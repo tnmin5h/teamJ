@@ -61,7 +61,7 @@
 
 
 ## 허프만 트리
-[허프만 트리](https://t1.daumcdn.net/cfile/tistory/99E80B395C34ACB80E)
+![허프만 트리](https://t1.daumcdn.net/cfile/tistory/99E80B395C34ACB80E)
   
 ## 입력
 
